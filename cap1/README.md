@@ -1,3 +1,3 @@
-# Babelの使い方 - Babel + Webpack
+# Babelの使い方 - Babel単体での利用
 
-http://qiita.com/takap235711/items/05f1c26740ff87a63e08
+http://qiita.com/takap235711/items/343fb4a898413116be64
